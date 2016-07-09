@@ -1,0 +1,251 @@
+{
+  "basics": {
+    "name": "Jørgen Arnor Gårdsø Lom",
+    "label": "Designer and front end developer",
+    "picture": "https://www.gravatar.com/avatar/9bcea0904786a2117b8d0bd5cd4e1743?s=750",
+    "email": "j@lom.me",
+    "phone": "(+47) 955 29 331",
+    "website": "http://lom.me",
+    "summary": "I'm a web- & graphic designer, and front end application developer. I have a passion for front-end usability and accessability design, and I love typography, both in print and on screen. \n I have a background in broadcast television, and a keen interest in media, new and old.",
+    "location": {
+        "address": "Nøstegaten 85",
+        "postalCode": "5011",
+        "city": "Bergen",
+        "countryCode": "No",
+        "region": "Hordaland"
+    },
+    "profiles": [
+        {
+            "network": "Twitter",
+            "username": "lommelom",
+            "url": "http://twitter.com/lommelom"
+        },
+        {
+            "network": "GitHub",
+            "username": "jlom",
+            "url": "http://github.com/jlom"
+        },
+        {
+            "network": "LinkedIn",
+            "username": "arnorlom",
+            "url": "https://linkedin.com/in/arnorlom"
+        }
+    ]
+  },
+  "work": [
+    {
+        "company": "Uni Micro AS",
+        "position": "Senior web designer",
+        "website": "http://unimicro.no",
+        "startDate": "2015-05-01",
+        "summary": "Responsible for visual design, usability, accessibility, UX and IA for Uni Micro's six-years-in-a-row award winning ERP and accounting systems. \n Heading up work on our human interface guidelines, user testing, and pattern- and component libraries, as well as doing front-end development on our web products. \n Working Agile across disciplines in both the Adobe CC suite, Sketch, InVision, as well as front-end development using HTML, Sass, and JavaScript, using TypeScript and both Angular 1 and 2.",
+        "highlights": [
+            "Initiated our user testing program",
+            "Expanded a11y-focus on the web"
+        ]
+    },
+    {
+        "company":  "Highlighter Lom",
+        "position": "Managing director",
+        "website": "http://highlighter.no",
+        "startDate": "2011-01-01",
+        "summary": "Managing director at Highlighter, a one-man design studio specialising in web and graphic design, communications consultancy and media production."
+    },
+    {
+        "company":  "Wolftech Broadcast Solutions",
+        "position": "Sr. VP, Design and marketing",
+        "website": "http://wolftech.no",
+        "startDate": "2013-01-01",
+        "endDate": "2015-03-31",
+        "summary": "Web front end developer, UX designer, and director of profile and external marketing for Wolftech Broadcast Solutions. \n Wrote the Wolftech Style Guide and Human Interface Guidelines, the Wolftech.no web site, as well as working as the lead front end developer on most of the Wolftech web interfaces, including the Wolftech EventCaster and Wolftech News systems."
+    },
+    {
+        "company":  "TV 2",
+        "position": "Administrator",
+        "website": "http://tv2.no",
+        "startDate": "2010-11-01",
+        "endDate": "2014-02-28",
+        "summary": "Front desk, switch board operation, audience relations, access control, invoice verification and managing incoming news tips."
+    }
+  ],
+  "volunteer": [
+    {
+        "organization": "Norwegian Red Cross",
+        "position": "Homework Assistant",
+        "website": "https://www.rodekors.no/red-cross-in-english/",
+        "startDate": "2010-02-01",
+        "endDate": "2010-03-01",
+        "summary": "Homework assistant for grade five to seven"
+    }
+  ],
+  "education": [
+    {
+        "institution": "Red Cross",
+        "area": "Introduction to the use of defibrillators",
+        "studyType": "Course",
+        "startDate": "2016-04-14",
+        "endDate": "2016-04-14"
+    },
+    {
+        "institution": "TV 2 Green Card-course",
+        "area": "Media law and ethics",
+        "studyType": "Course",
+        "startDate": "2014-05-06",
+        "endDate": "2014-05-06"
+    },
+    {
+        "institution": "Bergen Fire Department",
+        "area": "Fire protection and safety",
+        "studyType": "Course",
+        "startDate": "2012-03-28",
+        "endDate": "2012-03-28"
+    },
+    {
+        "institution": "University of Bergen",
+        "area": "New media",
+        "studyType": "Bachelor (not completed)",
+        "startDate": "2010-08-01",
+        "endDate": "2011-12-31"
+    },
+    {
+        "institution": "University of Tromsø",
+        "area": "Social anthropology",
+        "studyType": "Bachelor (not completed)",
+        "startDate": "2007-08-01",
+        "endDate": "2008-12-31"
+    },
+    {
+        "institution": "Randaberg videregående skole",
+        "area": "Media and communication studies",
+        "studyType": "High school equivalent",
+        "startDate": "2004-08-01",
+        "endDate": "2007-06-30"
+    }
+  ],
+  "skills": [
+    {
+        "name": "Front-end Web Development",
+        "level": "Expert",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "Sass",
+            "Javascript",
+            "TypeScript",
+            "Web standards",
+            "Accessibility",
+            "Responsive web design",
+            "Progressive web apps",
+            "Angular.js",
+            "Angular 2",
+            "Knockout.js"
+        ]
+    },
+    {
+        "name": "Design",
+        "level": "Expert",
+        "keywords": [
+            "Usability",
+            "User experience design",
+            "User interface design",
+            "Motion design",
+            "Typography",
+            "User testing",
+            "User research",
+            "Sketch",
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Adobe InDesign",
+            "Keynote",
+            "Pen and paper"
+        ]
+    },
+    {
+        "name": "Media",
+        "level": "Expert",
+        "keywords": [
+            "Digital video",
+            "Streaming media",
+            "Avid iNEWS",
+            "MOS",
+            "NRCS",
+            "Aerial cinematography",
+            "Journalism",
+            "Social media"
+        ]
+    },
+    {
+        "name": "Project Management",
+        "level": "Good",
+        "keywords": [
+            "Agile",
+            "Scrum",
+            "ITIL",
+            "FogBugz",
+            "Atlassian",
+            "Version One",
+            "GitHub",
+            "Client relations",
+            "Developer relations"
+        ]
+    },
+    {
+        "name": "Back-end Developent",
+        "level": "Good",
+        "keywords": [
+            "RESTful APIs",
+            "Node.js",
+            "Express",
+            "Passport",
+            "MongoDB",
+            "WebHooks",
+            "WebSockets",
+            "oAuth",
+            "Identity Server",
+            "SQL",
+            "PHP"
+        ]
+    }
+  ],
+  "languages": [
+    {
+        "name": "Norwegian",
+        "level": "Native"
+    },
+    {
+        "name": "English",
+        "level": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+        "name": "Technology",
+        "keywords": [
+            "Apple",
+            "Drones",
+            "Gadgets",
+            "VR",
+            "Media"
+        ]
+    },
+    {
+        "name": "Politics",
+        "keywords": [
+            "Privacy",
+            "Immigration and integration",
+            "Finance and innovation",
+            "Diversity"
+        ]
+    },
+    {
+        "name": "Media",
+        "keywords": [
+            "Real-time media",
+            "User-generated content",
+            "Multimedial storytelling",
+            "Language",
+            "Emoji and animated gifs 🤘"
+        ]
+    }
+  ]
+}
