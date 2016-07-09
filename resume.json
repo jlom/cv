@@ -209,12 +209,12 @@
   ],
   "languages": [
     {
-        "name": "Norwegian",
-        "level": "Native"
+        "language": "Norwegian",
+        "fluency": "Native speaker"
     },
     {
-        "name": "English",
-        "level": "Fluent"
+        "language": "English",
+        "fluency": "Full professional fluency"
     }
   ],
   "interests": [

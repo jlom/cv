@@ -105,8 +105,8 @@ Homework assistant for grade five to seven
 
 ## Languages
 
-* 
-* 
+* Native speaker in Norwegian
+* Full professional fluency in English
 
 ## Interests
 
