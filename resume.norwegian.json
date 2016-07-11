@@ -1,0 +1,253 @@
+{
+  "basics": {
+    "name": "Jørgen Arnor Gårdsø Lom",
+    "label": "Designer og frontend-utvikler",
+    "picture": "https://www.gravatar.com/avatar/9bcea0904786a2117b8d0bd5cd4e1743?s=750",
+    "email": "j@lom.me",
+    "phone": "(+47) 955 29 331",
+    "website": "http://lom.me",
+    "summary": "Web- og grafisk designer, med solid erfaring innen frontend-utvikling, brukervennlighet og tilgjengelig design. Brenner for, og har bred erfaring innen, god typografi, både på skjerm og papir. \n God erfaring innen kringkasting, og sterk interesse for både nye og tradisjonelle medier.",
+    "location": {
+        "address": "Nøstegaten 85",
+        "postalCode": "5011",
+        "city": "Bergen",
+        "countryCode": "No",
+        "region": "Hordaland"
+    },
+    "profiles": [
+        {
+            "network": "LinkedIn",
+            "username": "arnorlom",
+            "url": "https://linkedin.com/in/arnorlom/no"
+        },
+        {
+            "network": "GitHub",
+            "username": "jlom",
+            "url": "http://github.com/jlom"
+        },
+        {
+            "network": "Twitter",
+            "username": "lommelom",
+            "url": "http://twitter.com/lommelom"
+        }
+    ]
+  },
+  "work": [
+    {
+        "company": "Uni Micro AS",
+        "position": "Senior webdesigner",
+        "website": "http://unimicro.no",
+        "startDate": "2015-05-01",
+        "summary": "Ansvarlig for visuell utforming, brukervennlighet, universell design, UX og IA for Uni Micros seks-år-på-rad prisvinnende økonomisystem. \n Leder det interne arbeidet med human interface guidelines, applikasjonsprofilmanual, og visuelle komponentbibliotek. Arbeider med responsivt- og tverrplattform UI-design og utvikling for web. \n Jobber på tvers av disipliner i både Adobe CC-pakken, Sketch og InVision, samt frontendutvikling i HTML, CSS, Sass, Node.js og JavaScript, vha. TypeScript og Angular 1 og 2.",
+        "highlights": [
+            "Iverksatte design sprints, persona-basert design og brukertest-program",
+            "Fornyet bedriftens fokus på universell utforming"
+        ]
+    },
+    {
+        "company":  "Highlighter Lom",
+        "position": "Web- og grafisk designer",
+        "website": "http://highlighter.no",
+        "startDate": "2011-01-01",
+        "summary": "Daglig leder for Highlighter, et ettmannsorkester av web- og grafisk design, medieproduksjon og kommunikasjonsrådgiving."
+    },
+    {
+        "company":  "Wolftech Broadcast Solutions",
+        "position": "Sr. VP, Design and marketing",
+        "website": "http://wolftech.no",
+        "startDate": "2013-01-01",
+        "endDate": "2015-03-31",
+        "summary": "Ansvarlig for visuell utforming, brukervennlighet, universell design, UX og IA for Uni Micros seks-år-på-rad prisvinnende økonomisystem. \n Ledey det interne arbeidet med human interface guidelines, applikasjonsprofilmanual, og visuelle komponentbibliotek. Arbeidet med responsivt- og tverrplattform UI-design og utvikling for web. \n Jobbet på tvers av disipliner i både Adobe CC-pakken, Sketch og InVision, samt frontendutvikling i HTML, CSS, Sass, Node.js og JavaScript, vha. TypeScript og Angular 1 og 2."
+    },
+    {
+        "company":  "TV 2",
+        "position": "Administrasjonsmedarbeider",
+        "website": "http://tv2.no",
+        "startDate": "2010-11-01",
+        "endDate": "2014-02-28",
+        "summary": "Resepsjonsarbeid, sentralbord, publikumskontakt, tipsmottak, adgangskontroll og diverse forefallende administrativt."
+    }
+  ],
+  "volunteer": [
+    {
+        "organization": "Røde kors",
+        "position": "Leksehjelp",
+        "website": "https://www.rodekors.no/",
+        "startDate": "2010-02-01",
+        "endDate": "2010-03-01",
+        "summary": "Leksehjelp for femte til syvende klasse. Selv lærte jeg multiplikasjon med brøk på nytt."
+    }
+  ],
+  "education": [
+    {
+        "institution": "Red Cross",
+        "area": "Grunnkurs i bruk av hjertestarter",
+        "studyType": "Kurs, tre timer",
+        "startDate": "2016-04-14",
+        "endDate": "2016-04-14"
+    },
+    {
+        "institution": "TV 2s Green Card-kurs",
+        "area": "Mediejuss og -etikk",
+        "studyType": "Heldagskurs",
+        "startDate": "2014-05-06",
+        "endDate": "2014-05-06"
+    },
+    {
+        "institution": "Bergen brannvesen",
+        "area": "Grunnkurs i brannsikkerhet",
+        "studyType": "Heldagskurs",
+        "startDate": "2012-03-28",
+        "endDate": "2012-03-28"
+    },
+    {
+        "institution": "Universitetet i Bergen",
+        "area": "Nye medier",
+        "studyType": "Bachelor (påbegynt)",
+        "startDate": "2010-08-01",
+        "endDate": "2011-12-31"
+    },
+    {
+        "institution": "Universitetet i Tromsø",
+        "area": "Sosialantropologi",
+        "studyType": "Bachelor (påbegynt)",
+        "startDate": "2007-08-01",
+        "endDate": "2008-12-31"
+    },
+    {
+        "institution": "Randaberg videregående skole",
+        "area": "Medier og kommunikasjon",
+        "studyType": "Videregående utdanning",
+        "startDate": "2004-08-01",
+        "endDate": "2007-06-30"
+    }
+  ],
+  "skills": [
+    {
+        "name": "Front-end webutvikling",
+        "level": "Ekspert",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "Sass",
+            "Javascript",
+            "TypeScript",
+            "Webstandarder",
+            "Universell utforming",
+            "Responsivt webdesign",
+            "Progressive web apps",
+            "Angular.js",
+            "Angular 2",
+            "Knockout.js"
+        ]
+    },
+    {
+        "name": "Design",
+        "level": "Ekspert",
+        "keywords": [
+            "Brukervennlighet",
+            "Utforming av brukeropplevelser (UX)",
+            "Grensesnittdesign (UI)",
+            "Animasjon (Motion design)",
+            "Typografi",
+            "Brukertesting",
+            "Bruker-research",
+            "Sketch",
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Adobe InDesign",
+            "Keynote",
+            "Penn og papir"
+        ]
+    },
+    {
+        "name": "Media",
+        "level": "Ekspert",
+        "keywords": [
+            "Digital video",
+            "Videostrømming",
+            "Avid iNEWS",
+            "MOS",
+            "NRCS",
+            "Dronefoto",
+            "Journalistikk",
+            "Nye og sosiale media"
+        ]
+    },
+    {
+        "name": "Prosjektstyring",
+        "level": "God",
+        "keywords": [
+            "Agile metodikker",
+            "Scrum",
+            "ITIL",
+            "FogBugz",
+            "Atlassian",
+            "Version One",
+            "GitHub",
+            "Klientrelasjoner",
+            "Utviklerrelasjoner",
+            "Git",
+            "GitFlow"
+        ]
+    },
+    {
+        "name": "Back-end webutvikling",
+        "level": "God",
+        "keywords": [
+            "RESTfulle APIer",
+            "Node.js",
+            "Express",
+            "Passport",
+            "MongoDB",
+            "WebHooks",
+            "WebSockets",
+            "oAuth",
+            "Identity Server",
+            "SQL",
+            "PHP"
+        ]
+    }
+  ],
+  "languages": [
+    {
+        "language": "Norsk",
+        "fluency": "Morsmål"
+    },
+    {
+        "language": "Engelsk",
+        "fluency": "Flytende"
+    }
+  ],
+  "interests": [
+    {
+        "name": "Teknologi",
+        "keywords": [
+            "Apple",
+            "Droner",
+            "Gadgets og dingsbomser",
+            "VR",
+            "Media"
+        ]
+    },
+    {
+        "name": "Politikk og samfunn",
+        "keywords": [
+            "Personvern",
+            "Innvandring og integrasjon",
+            "Økonomi- og næringslivspolitikk",
+            "Styrking av mangfoldet"
+        ]
+    },
+    {
+        "name": "Media",
+        "keywords": [
+            "Realtidsmedia",
+            "Brukergenerert innhold",
+            "Multimedial historiefortelling",
+            "Godt språk.",
+            "Emoji and animerte gif’er 🤘"
+        ]
+    }
+  ]
+}
