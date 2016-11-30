@@ -60,6 +60,14 @@
         "summary": "Web front end developer, UX designer, and director of profile and external marketing for Wolftech Broadcast Solutions. \n Wrote the Wolftech Style Guide and Human Interface Guidelines, the Wolftech.no web site, as well as working as the lead front end developer on most of the Wolftech web interfaces, including the Wolftech EventCaster and Wolftech News systems."
     },
     {
+        "company":  "TV 2",
+        "position": "Administrator",
+        "website": "http://tv2.no",
+        "startDate": "2010-11-01",
+        "endDate": "2014-02-28",
+        "summary": "Front desk, switch board operation, audience relations, access control, invoice verification and managing incoming news tips."
+    },
+    {
         "company":  "Hermes Dialog AS",
         "position": "Switchboard Operator",
         "startDate": "2010-03-01",
