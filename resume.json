@@ -199,7 +199,7 @@
         "company":  "City of Stavanger",
         "position": "Exhibitor",
         "startDate": "2004-07-15",
-        "endDate": "2006-09-01",
+        "endDate": "2004-09-01",
         "summary": "Art exhibitor of photographic works for the City of Stavanger.",
         "category": "design"
     },
@@ -238,8 +238,8 @@
     {
         "company":  "Bygdaposten for Hjelmeland",
         "position": "Journalist",
-        "startDate": "2001-06-30",
-        "endDate": "2004-09-01",
+        "startDate": "2001-08-01",
+        "endDate": "2004-06-30",
         "summary": "Journalist and photographer for the print edition of the Bygdaposten newspaper.",
         "category": "media"
     }
@@ -257,24 +257,24 @@
         "organization": "Bergenhus Venstre",
         "position": "Board Member",
         "website": "http://venstre.no",
-        "startDate": "2014-08-01",
-        "endDate": "2013-08-01",
+        "startDate": "2013-08-01",
+        "endDate": "2014-08-01",
         "summary": "Board member for the Bergenhus local division of the The Liberal Party of Norway."
     },
     {
         "organization": "Åsane Venstre",
         "position": "Board Member",
         "website": "http://venstre.no",
-        "startDate": "2012-08-01",
-        "endDate": "2011-08-01",
+        "startDate": "2011-08-01",
+        "endDate": "2012-08-01",
         "summary": "Board member for the Åsane local division of the The Liberal Party of Norway."
     },
     {
         "organization": "Bergen Unge Venstre",
         "position": "Substitute Board Member",
         "website": "http://venstre.no",
-        "startDate": "2012-08-01",
-        "endDate": "2011-08-01",
+        "startDate": "2011-08-01",
+        "endDate": "2012-08-01",
         "summary": "Substitute board member for the Åsane local division of the Young Liberals of Norway."
     },
     {
