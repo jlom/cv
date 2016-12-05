@@ -43,7 +43,8 @@
             "Initiated our user testing program",
             "Expanded a11y-focus on the web"
         ],
-        "category": "design"
+        "category": "design",
+        "lane": 1
     },
     {
         "company":  "Highlighter Lom",
@@ -51,7 +52,8 @@
         "website": "http://highlighter.no",
         "startDate": "2011-01-01",
         "summary": "Managing director at Highlighter, a one-man design studio specialising in web and graphic design, communications consultancy and media production.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "Wolftech Broadcast Solutions",
@@ -60,16 +62,28 @@
         "startDate": "2013-01-01",
         "endDate": "2015-03-31",
         "summary": "Web front end developer, UX designer, and director of profile and external marketing for Wolftech Broadcast Solutions. \n Wrote the Wolftech Style Guide and Human Interface Guidelines, the Wolftech.no web site, as well as working as the lead front end developer on most of the Wolftech web interfaces, including the Wolftech EventCaster and Wolftech News systems.",
-        "category": "media"
+        "category": "media",
+        "lane": 1
+    },
+    {
+        "company":  "TV 2",
+        "position": "Administrator",
+        "website": "http://tv2.no",
+        "startDate": "2015-03-31",
+        "endDate": "2015-05-01",
+        "summary": "Front desk, switch board operation, audience relations, access control, invoice verification and managing incoming news tips.",
+        "category": "media",
+        "lane": 1
     },
     {
         "company":  "TV 2",
         "position": "Administrator",
         "website": "http://tv2.no",
         "startDate": "2010-11-01",
-        "endDate": "2014-02-28",
+        "endDate": "2013-01-31",
         "summary": "Front desk, switch board operation, audience relations, access control, invoice verification and managing incoming news tips.",
-        "category": "media"
+        "category": "media",
+        "lane": 2
     },
     {
         "company":  "Hermes Dialog AS",
@@ -77,7 +91,17 @@
         "startDate": "2010-03-01",
         "endDate": "2010-10-31",
         "summary": "Switchboard operator, customer support and 1st line IT support for Hermes Dialog, Telekiosken, Nordialog, Mobildata, Kjedehuset, Mamoz, Abbo.no, AR Data, Timeflex Systems and Primehead.",
-        "category": "service"
+        "category": "service",
+        "lane": 3
+    },
+    {
+        "company":  "Jobbdirekte.no",
+        "position": "Sales Consultant",
+        "startDate": "2009-12-01",
+        "endDate": "2010-02-31",
+        "summary": "Sales representative for Norway's second largest commercial job board.",
+        "category": "service",
+        "lane": 3
     },
     {
         "company":  "Meny Oslo City",
@@ -86,7 +110,8 @@
         "startDate": "2008-12-01",
         "endDate": "2009-11-30",
         "summary": "Check-in and check-out of guests, bartendering, balancing the cash for bar and reception, night runs, preparation of meeting rooms and the hotel for the next day, fire and safety rounds.",
-        "category": "service"
+        "category": "service",
+        "lane": 4
     },
     {
         "company":  "Spa-hotell Velvære",
@@ -95,7 +120,8 @@
         "startDate": "2009-06-15",
         "endDate": "2009-09-15",
         "summary": "Check-in and check-out of guests, bartendering, balancing the cash for bar and reception, night runs, preparation of meeting rooms and the hotel for the next day, fire and safety rounds.",
-        "category": "service"
+        "category": "service",
+        "lane": 3
     },
     {
         "company":  "Dugg Frisører",
@@ -104,7 +130,8 @@
         "startDate": "2009-01-01",
         "endDate": "2009-06-15",
         "summary": "Customer service, booking, ordering and miscellaneous for one of Oslo’s highest-end hair dressers.",
-        "category": "service"
+        "category": "service",
+        "lane": 3
     },
     {
         "company":  "Spa-hotell Velvære",
@@ -113,7 +140,8 @@
         "startDate": "2008-06-15",
         "endDate": "2008-09-15",
         "summary": "Check-in and check-out of guests, bartendering, balancing the cash for bar and reception, night runs, preparation of meeting rooms and the hotel for the next day, fire and safety rounds.",
-        "category": "service"
+        "category": "service",
+        "lane": 3
     },
     {
         "company":  "Rom for mer",
@@ -121,7 +149,8 @@
         "startDate": "2006-11-01",
         "endDate": "2007-08-31",
         "summary": "Customer care and sales promotion for the interior design department at Rom for mer, one of Stavanger's leading design shops, with a special focus on Scandinavian design.",
-        "category": "service"
+        "category": "service",
+        "lane": 3
     },
     {
         "company":  "Spinneriet",
@@ -129,7 +158,8 @@
         "startDate": "2006-06-01",
         "endDate": "2006-08-15",
         "summary": "Guide, sales consultant, artist contact and cafe staff member for Spinneriet’s annual summer exhibition. The sales exhibition has a particular focus on local crafts and visual arts, in an old, historic spinning mill in Ryfylke.",
-        "category": "service"
+        "category": "service",
+        "lane": 3
     },
     {
         "company":  "Spinneriet Summer Exhibition",
@@ -137,7 +167,8 @@
         "startDate": "2006-06-01",
         "endDate": "2006-08-15",
         "summary": "Art exhibitor of photographic art works under the summer art exhibition at Spinneriet art gallery.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "Ryfylkeutstillingen",
@@ -145,7 +176,8 @@
         "startDate": "2006-08-15",
         "endDate": "2006-12-15",
         "summary": "Art exhibitor of photographic art works under the prestigious Ryfylkeutstillingen 2006.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "Halliburton",
@@ -153,7 +185,8 @@
         "startDate": "2005-12-31",
         "endDate": "2005-12-01",
         "summary": "Event photographer for Halliburton and ConocoPhillips’ annual Christmas party.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "Gallery W. Andersen",
@@ -161,7 +194,8 @@
         "startDate": "2005-09-15",
         "endDate": "2005-12-25",
         "summary": "Art exhibitor of photographic works at Gallery Wenche Andersen at the center Stavanger's old town.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "Rogaland County Charity Event",
@@ -169,7 +203,8 @@
         "startDate": "2005-08-15",
         "endDate": "2005-09-15",
         "summary": "Art exhibitor of photographic works at Rogaland County's charity exhibition, to benefit charities in Bolivia.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "The Other Life",
@@ -177,7 +212,8 @@
         "startDate": "2005-02-15",
         "endDate": "2005-03-15",
         "summary": "Independent art exhibition of photographic installation.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "Spinneriet",
@@ -185,7 +221,8 @@
         "startDate": "2005-06-01",
         "endDate": "2005-08-15",
         "summary": "Guide, sales consultant, artist contact and cafe staff member for Spinneriet’s annual summer exhibition. The sales exhibition has a particular focus on local crafts and visual arts, in an old, historic spinning mill in Ryfylke.",
-        "category": "service"
+        "category": "service",
+        "lane": 3
     },
     {
         "company":  "Halliburton",
@@ -193,7 +230,8 @@
         "startDate": "2004-12-31",
         "endDate": "2004-12-01",
         "summary": "Event photographer for Halliburton and ConocoPhillips’ annual Christmas party.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "City of Stavanger",
@@ -201,7 +239,8 @@
         "startDate": "2004-07-15",
         "endDate": "2004-09-01",
         "summary": "Art exhibitor of photographic works for the City of Stavanger.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "City of Stavanger",
@@ -209,7 +248,8 @@
         "startDate": "2003-06-31",
         "endDate": "2003-05-01",
         "summary": "Graphic design work for the Stavanger Municipality Detached Outreach Service.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "Spinneriet",
@@ -217,7 +257,8 @@
         "startDate": "2004-06-01",
         "endDate": "2004-08-15",
         "summary": "Guide, sales consultant, artist contact and cafe staff member for Spinneriet’s annual summer exhibition. The sales exhibition has a particular focus on local crafts and visual arts, in an old, historic spinning mill in Ryfylke.",
-        "category": "service"
+        "category": "service",
+        "lane": 3
     },
     {
         "company":  "City of Stavanger",
@@ -225,7 +266,8 @@
         "startDate": "2003-06-31",
         "endDate": "2003-05-01",
         "summary": "Graphic design work for the Stavanger Municipality Detached Outreach Service.",
-        "category": "design"
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "Spinneriet",
@@ -233,7 +275,8 @@
         "startDate": "2003-06-01",
         "endDate": "2003-08-15",
         "summary": "Guide, sales consultant, artist contact and cafe staff member for Spinneriet’s annual summer exhibition. The sales exhibition has a particular focus on local crafts and visual arts, in an old, historic spinning mill in Ryfylke.",
-        "category": "service"
+        "category": "service",
+        "lane": 3
     },
     {
         "company":  "Bygdaposten for Hjelmeland",
@@ -241,7 +284,8 @@
         "startDate": "2001-08-01",
         "endDate": "2004-06-30",
         "summary": "Journalist and photographer for the print edition of the Bygdaposten newspaper.",
-        "category": "media"
+        "category": "media",
+        "lane": 2
     }
   ],
   "volunteer": [
