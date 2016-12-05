@@ -104,13 +104,13 @@
         "lane": 3
     },
     {
-      "company": "OISH AS",
-      "position": "Marketing consultant",
-      "startDate": "2009-03-01",
-      "endDate": "2009-09-01",
-      "summary": "Design- and marketing consultant for Offshore Service Hydraulikk"
-      "category": "design",
-      "lane": 0
+        "company": "OISH AS",
+        "position": "Marketing consultant",
+        "startDate": "2009-03-01",
+        "endDate": "2009-09-01",
+        "summary": "Design- and marketing consultant for Offshore Service Hydraulikk",
+        "category": "design",
+        "lane": 0
     },
     {
         "company":  "Meny Oslo City",
