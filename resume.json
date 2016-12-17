@@ -371,6 +371,13 @@
   ],
   "education": [
     {
+        "institution": "Vizrt",
+        "area": "ART-101-D: Viz Artist 3.8 for Designers",
+        "studyType": "Course",
+        "startDate": "2016-11-28",
+        "endDate": "2016-12-09"
+    },
+    {
         "institution": "Red Cross",
         "area": "Introduction to the use of defibrillators",
         "studyType": "Course",
