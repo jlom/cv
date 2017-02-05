@@ -80,6 +80,13 @@
   ],
   "education": [
     {
+        "institution": "Red Cross",
+        "area": "Basic Courses in First Aid and Psychosocial First Aid",
+        "studyType": "Course",
+        "startDate": "2017-02-04",
+        "endDate": "2017-02-04"
+    },
+    {
         "institution": "Vizrt",
         "area": "ART-101-D: Viz Artist 3.8 for Designers",
         "studyType": "Course",
