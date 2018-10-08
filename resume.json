@@ -35,10 +35,10 @@
   "work": [
     {
         "company": "Sixty AS",
-        "position": "Senior interactive developer",
+        "position": "Tech Lead and Senior interactive developer",
         "website": "http://sixty.no",
         "startDate": "2017-09-15",
-        "summary": "",
+        "summary": "Front end developer, technical PM and developer ambassador for Ease TV at Sixty.",
         "highlights": [],
         "category": "media",
         "lane": 1
@@ -47,7 +47,7 @@
         "position": "Senior web designer",
         "website": "http://unimicro.no",
         "startDate": "2015-05-01",
-        "endDate": "2017-09-15"
+        "endDate": "2017-09-15",
         "summary": "Responsible for visual design, usability, accessibility, UX and IA for Uni Micro's six-years-in-a-row award winning ERP and accounting systems. \n Heading up work on our human interface guidelines, user testing, and pattern- and component libraries, as well as doing front-end development on our web products. \n Working Agile across disciplines in both the Adobe CC suite, Sketch, InVision, as well as front-end development using HTML, Sass, and JavaScript, using TypeScript and both Angular 1 and 2.",
         "highlights": [
             "Initiated our user testing program",
