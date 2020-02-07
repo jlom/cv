@@ -34,10 +34,21 @@
   },
   "work": [
     {
+        "company": "Aftenposten",
+        "position": "Editorial developer",
+        "website": "http://aftenposten.no",
+        "startDate": "2019-06-01",
+        "summary": "Editorial developer for Aftenposten, Norway's largest subscription newspaper.",
+        "highlights": [],
+        "category": "media",
+        "lane": 1
+    },  
+    {
         "company": "Sixty AS",
         "position": "Tech Lead and Senior interactive developer",
         "website": "http://sixty.no",
         "startDate": "2017-09-15",
+        "endDate": "2019-05-31",
         "summary": "Front end developer, technical PM and developer ambassador for Ease TV at Sixty.",
         "highlights": [],
         "category": "media",
